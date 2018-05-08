@@ -8,5 +8,5 @@ public class WorkflowTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(WorkflowTestApplication.class, args);
-	}ggg
+	}
 }
